@@ -1,8 +1,0 @@
-./aligned_img/2019BTCS049/WhatsApp Image 2022-01-26 at 10.44.03 PM.png 419 340 531 502
-./aligned_img/2019BTCS049/WhatsApp Image 2022-01-26 at 10.44.04 PM (1).png 248 385 300 450
-./aligned_img/2019BTCS049/WhatsApp Image 2022-01-26 at 10.44.04 PM.png 304 458 352 527
-./aligned_img/2019BTCS049/WhatsApp Image 2022-01-26 at 10.49.38 PM.png 550 118 635 226
-./aligned_img/2019BTCS049/WhatsApp Image 2022-01-26 at 10.49.39 PM.png 528 294 612 426
-./aligned_img/2019BTCS049/WhatsApp Image 2022-01-26 at 10.49.40 PM (1).png 617 187 746 371
-./aligned_img/2019BTCS049/WhatsApp Image 2022-01-26 at 10.49.40 PM.png 629 335 721 453
-./aligned_img/2019BTCS049/WhatsApp Image 2022-01-26 at 10.49.41 PM.png 667 116 751 230
